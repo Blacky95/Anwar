@@ -2,7 +2,7 @@
   "packages":
   [
     {
-      "name": "STM32F334K8T6",
+      "name": "mkrzero",
       "maintainer": "Robotics Masters",
       "websiteURL": "https://roboticsmasters.co",
       "email" : "techsupport@roboticsmasters.co",
@@ -11,7 +11,7 @@
         {
           "name": "My Boards",
           "architecture": "samd",
-          "version": "1.1.0",
+          "version": "1.6.20",
           "category": "Contributed",
           "url": "https://github.com/Blacky95/Anwar/blob/main/1_9.zip",
           "archiveFileName": "1_9.zip",
