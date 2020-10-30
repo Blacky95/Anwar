@@ -13,10 +13,10 @@
           "architecture": "samd",
           "version": "1.6.20",
           "category": "Contributed",
-          "url": "https://github.com/Blacky95/Anwar/blob/main/1_9.zip",
-          "archiveFileName": "1_9.zip",
-          "checksum": "SHA-256:1a1a2a0e0d4ba4e2a9c96501c3128e14",
-          "size": "11998029",
+          "url": "https://github.com/Blacky95/Anwar/blob/main/1.6.20.zip",
+          "archiveFileName": "1.6.20.zip",
+          "checksum": "8d6b241b0226a7b804ac2c5a37d03ce4",
+          "size": "4372584",
           "boards": [
             {
               "name": "Robo HAT MM1"
